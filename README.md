@@ -137,3 +137,9 @@ pred = model(video)
 本專案已成功於 CIFAR-10 標準數據集上驗證。訓練與測試流程可參考 `test_mlp_mixer.py`，並可直接執行以獲得模型在標準數據集上的表現。
 
 如需自訂數據集或進行進階應用，請參考本 README 之進階用法。
+
+---
+
+# 實作成果
+![螢幕擷取畫面 2025-06-05 001838](https://github.com/user-attachments/assets/bc221d18-9b75-4a01-b0bf-afac77f75ad1)
+
